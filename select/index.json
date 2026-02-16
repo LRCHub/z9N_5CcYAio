@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Unlasting",
+  "base_artist": "LiSA",
+  "createdAt": "2026-02-16T08:03:16.054646Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "unlasting",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/01_unlasting_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Unlasting",
+      "artist": "JINJA",
+      "has_synced": true,
+      "path": "select/02_Unlasting_JINJA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Unlasting (TV Version)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_Unlasting_(TV_Version)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "unlasting - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/04_unlasting_-_Russian_ver._Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "unlasting",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/05_unlasting_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Unlasting",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/06_Unlasting_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unlasting (From \"Sword Art Online Alicization: War of Underworld\")",
+      "artist": "Mewsic",
+      "has_synced": false,
+      "path": "select/07_Unlasting_(From__Sword_Art_Online_Alicization__War_of_Underworld_)_Mewsic.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "unlasting -TV ver.-",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/08_unlasting_-TV_ver.-_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unlasting",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/09_Unlasting_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "unlasting",
+      "artist": "lisa",
+      "has_synced": true,
+      "path": "select/10_unlasting_lisa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unlasting, LiSA (from \"Sword Art Online: Alicization War of Underworld\")",
+      "artist": "Joohee Ahn",
+      "has_synced": false,
+      "path": "select/11_Unlasting,_LiSA_(from__Sword_Art_Online__Alicization_War_of_Underworld_)_Joohee_Ahn.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Unlasting (Sword Art Online Alicization: War of Underworld)",
+      "artist": "Miura Jam BR",
+      "has_synced": false,
+      "path": "select/12_Unlasting_(Sword_Art_Online_Alicization__War_of_Underworld)_Miura_Jam_BR.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Unlasting (From \"Sword Art Online: Alicization - War Of Underworld\")",
+      "artist": "Alan Rojas",
+      "has_synced": false,
+      "path": "select/13_Unlasting_(From__Sword_Art_Online__Alicization_-_War_Of_Underworld_)_Alan_Rojas.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "unlasting",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_unlasting_LiSA.txt"
+    }
+  ]
+}
